@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.css">
+</head>
+<body>
+    
+        <b>Alan Walker</b>
+        <hr>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary" >
+            <div class="container-fluid">
+              <a class="navbar-brand" href="#">Grow</a>
+              <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+              </button>
+              <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav">
+                  <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" href="#">Home</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#">About</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#">Skills</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#">Profile</a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </nav>
+
+          <img src="images/girl.jpeg" alt="girl" width="60px"
+           <br>
+
+           <b>objects</b>
+           <br>
+        <img src="images/fruite.jpeg" alt="fruite" width="60px"
+         <br>
+        <img src="images/apple.jpeg" alt="apple" width="50px"
+          <br> 
+
+           <p> Suscipit rerum atque quisquam explicabo placeat ad voluptatem, voluptas nemo quae vitae unde, dolorum veritatis voluptatibus architecto. Eius obcaecati quis explicabo nihil.</p>
+     
+</body>
+</html>
